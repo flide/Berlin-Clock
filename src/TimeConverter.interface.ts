@@ -1,3 +1,3 @@
 export interface TimeConverter {
-	convertTime(aTime: string): string;
+	convertTime(): string;
 }
